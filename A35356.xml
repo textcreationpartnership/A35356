@@ -1,0 +1,494 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Culmers crown crackt with his own looking-glass, or, The Cocks-combs looking-glasse broken about his ears and a counter-mirror held forth to all good people, for their undeceiving in the pretended sufferings of that pseudo-martyr, and grand imposter of this age, Blew Dick of Thanet : reflecting from certain pertinent observations upon an impertinent, false and frivolous Apology of his ascribed to his more ingenuous son, but scribed by his most ignominious self : wherein especially all the world may see the ugly face of that prodigious monster ...</title>
+            <author>Philo-katoptrono-klastes.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1657</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 36 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35356</idno>
+            <idno type="STC">Wing C7483</idno>
+            <idno type="STC">ESTC R32392</idno>
+            <idno type="EEBO-CITATION">12669778</idno>
+            <idno type="OCLC">ocm 12669778</idno>
+            <idno type="VID">65460</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A35356)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 65460)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1525:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Culmers crown crackt with his own looking-glass, or, The Cocks-combs looking-glasse broken about his ears and a counter-mirror held forth to all good people, for their undeceiving in the pretended sufferings of that pseudo-martyr, and grand imposter of this age, Blew Dick of Thanet : reflecting from certain pertinent observations upon an impertinent, false and frivolous Apology of his ascribed to his more ingenuous son, but scribed by his most ignominious self : wherein especially all the world may see the ugly face of that prodigious monster ...</title>
+                  <author>Philo-katoptrono-klastes.</author>
+               </titleStmt>
+               <extent>[2], 17, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed at London,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1657.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from colophon.</note>
+                  <note>"No knave to the pretended religious knave."</note>
+                  <note>Signed at end: Philo-katoptrono-klastes.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Culmer, Richard, d. 1662.</term>
+               <term>Eccentrics and eccentricities.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:65460:1" rendition="simple:additions"/>
+            <p>
+               <hi>CULMERS</hi> CROWN Crackt with his own LOOKING-GLASS; OR, The Cockſ-combs LOOKING-GLASSE Broken about his ears. AND A <hi>Counter-mirror</hi> held forth to all good People, for their undeceiving in the preten<g ref="char:EOLhyphen"/>ted ſufferings of that Pſeudo-Martyr, and grand Im<g ref="char:EOLhyphen"/>poſtor of this age, <hi>Blew Dick</hi> of <hi>Thanet.</hi>
+            </p>
+            <p>Reflecting from certain pertinent <hi>Obſervations</hi> upon an impertinent, falſe and frivolous <hi>Apology</hi> of his aſcribed to his more ingenuous ſon, but ſcribled by his moſt ignominious ſelf. Wherein eſpecially, All the world may ſee the ugly face of that prodigious Monſter; and conſequently, what a woful exchange the good, but unfortunate, men of <hi>Mynſter</hi> have made, of a <hi>Doctor</hi> for a <hi>Dunce,</hi> of a <hi>learned Divine</hi> for <hi>a leaden Dick,</hi> of a <hi>reverend Paſtor</hi> for a <hi>ravenous Perſecutor:</hi> in a word, of a <hi>Caſaubon</hi> for a <hi>Culmer;</hi> names, for the merit of the one, and demerit of the other, as diametrically oppoſite as <hi>Fame</hi> and <hi>Infamy.</hi>
+            </p>
+            <p>Publiſhed By a true ſon of that worthy Doctor, one of his Pariſhioners, in vin<g ref="char:EOLhyphen"/>dication of himſelf, his dear brethren, and their reverend ghoſtly Father, from the falſe aſperſions, and malicious defamations of that common Oppreſſor of them all: who pretending to write a <hi>Martyrologie,</hi> tells a tale of a TURD, and wrapping it up in a Legend of lies, forgeries, and other baſe trumpery, (to ſay nothing here of his SHITTEN STYLE) thinks it a fit Preſent for an honou<g ref="char:EOLhyphen"/>rable Colonel; who judging it fitter for a PRIVY then a publick uſe, or rather of no uſe but in a caſe of NECESSITY, hath ſent it to Goldfinders Hall, there to ſerve for an Ani-tergium when NEED requires.</p>
+            <q>
+               <l>The caſe is alT<g ref="char:V">Ʋ</g>RD then: what <hi>Dick</hi> deſign'd</l>
+               <l>To stand and ſerve in Front, is clapp't behind.</l>
+               <l>What <hi>Dick</hi> thought worthy of a Son of <hi>Mars,</hi>
+               </l>
+               <l>Scarce worthy moſt men think to wipe his A—</l>
+               <l>Whilſt all conclude that none but Fooles and Aſſes</l>
+               <l>Will value ſuch a Woodcocks <hi>Looking-glaſſes.</hi>
+               </l>
+            </q>
+            <bibl>
+               <hi>Culmers Pariſh-Looking glaſs,</hi> p. 22.</bibl>
+            <p>No Knave to the pretended Religious Knave.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:65460:2"/>
+            <head>To the Reader.</head>
+            <opener>
+               <salute>Courteous Reader,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">M</seg>Y firſt entertainment of thee muſt be with an Apology for not keeping my word with thee in the precedent Title<g ref="char:EOLhyphen"/>page, where I promiſed to play the Ob<g ref="char:EOLhyphen"/>ſervator upon <hi>Blew Dicks</hi> Looking<g ref="char:EOLhyphen"/>glaſs. Seriouſly what I ſo promiſed, I then really in<g ref="char:EOLhyphen"/>tended, but upon ſecond thoughts, and by ſome induce<g ref="char:EOLhyphen"/>ments not much material to be ſpecified, my mind is ſomewhat altered. Not but that I ſtill intend to be an Obſervator, but rather on his Life, then on his Look<g ref="char:EOLhyphen"/>ing glaſs: by the help, and after the method of the lat<g ref="char:EOLhyphen"/>ter, obſerving the moſt remarkable paſſages of the former. So that upon the matter, the cloaths are not ſo much altered, as the dreſsing, the matter, as the form. And this premiſed, I ſhall ſtay thee no longer in the porch, but in hope of thy courteous pardon for this little receding from the firſt deſign, I ſhall preſent my ſelf, and what I have to ſay unto thee under this enſuing Title.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:65460:2"/>
+            <head>DICK CULMERS Life DISCOVERED (Chiefly) by his own LOOKING-GLASSE.</head>
+            <p>
+               <seg rend="decorInit">T</seg>O the ſhame and diſhonor of his native ſoil,
+<note place="margin">His birth<g ref="char:EOLhyphen"/>place, and pranks there.</note> never before tainted either with producing or harbou<g ref="char:EOLhyphen"/>ring any venemous or noiſome creature; He was born and bred (at <hi>Dunſ-acre</hi>) in the Iſle of <hi>Thanet:</hi> from whence, after ſome notable exploits conſtrued by his fond and partial parents for early Omens of his innate wit, and good prognoſticks of an inge<g ref="char:EOLhyphen"/>nious head-piece, (ſuch as his new-found way for deſcending the Cliffs to catch Jack<g ref="char:EOLhyphen"/>daws by the help of a rope faſtened to his Fa<g ref="char:EOLhyphen"/>thers Cows horns:) he is tranſplanted into the Continent: and, that art might improve na<g ref="char:EOLhyphen"/>ture, ſent to <hi>Canterbury School,</hi>
+               <note place="margin">His behaviour at School.</note> where though un<g ref="char:EOLhyphen"/>der <hi>the King of School-maſters,</hi> (pag. 3.) ſuch a Block-head he proves, that he quickly diſap<g ref="char:EOLhyphen"/>points his friends, and diſcredits his Maſter.
+<pb n="2" facs="tcp:65460:3"/>
+               <hi>Ex omni ligno non fit Mercurius,</hi> is an old ſaying, which our <hi>Dick</hi> at once both revives and verifies by his non-proficiency. <hi>Senior</hi> happily (as he pretends) he was, that is, <hi>Senior Dunce</hi> of all the School. To give him his full due, we will grant him famous too, right famous indeed (not to mention here his many rakehelly pranks uſual<g ref="char:EOLhyphen"/>ly chaſtiſed with a ſwinging rod provided for the nonce, and called by his name) for a bloody perſecution which the Fox eſcaped by burrow<g ref="char:EOLhyphen"/>ing in a bench-hole, retaining to this day the name of <hi>Culmers</hi> hole
+<note n="*" place="margin">See the An<g ref="char:EOLhyphen"/>tidote, p. 3.</note>.</p>
+            <p n="2">2. He doth very well to commend his Ma<g ref="char:EOLhyphen"/>ſter, but it were better (for his own credit) that his Maſter, if alive, had leſs cauſe to diſcom<g ref="char:EOLhyphen"/>mend him. Under him indeed, though not from him, he made a beginning with ſome proficien<g ref="char:EOLhyphen"/>cy in his laudable, liberal Arts of <hi>Swimming, Thieving, Cuffing, Footbal-playing,</hi> &amp;c. which af<g ref="char:EOLhyphen"/>terwards he proſecuted,
+<note place="margin">At the Uni<g ref="char:EOLhyphen"/>verſity.</note> perfected, and became Maſter (or, if you will Doctor) of at <hi>Cambridge;</hi> where having gotten his bag fuller of ſtollen Wheat
+<note n="*" place="margin">See the An<g ref="char:EOLhyphen"/>tidote, p. 6.</note> then his brain of ſolid wit, after a no<g ref="char:EOLhyphen"/>table eſcape from a ſecond bloody perſecution by the hand of the Butler in <hi>Magdalen</hi> Colledge cellar, for playing the thief, he is lookt upon as a great ſhame to the place: and leaſt his con<g ref="char:EOLhyphen"/>tinuance there might occaſion too great a flux of tears from that mournful Saints eyes, expel<g ref="char:EOLhyphen"/>led the Colledge; who, after ſome vagaries, plants himſelf at <hi>Goodneſtone</hi> (p.
+<note place="margin">At <hi>Goodneſto.</hi>
+               </note> 3.) where falling to the exerciſe of his pretious gifts, he breaks the Laws of Hoſpitality, playes the perfidious
+<pb n="3" facs="tcp:65460:3"/>gueſt, and turns Traytor to his Hoſt, upon pretence of love to his Prince, putting fair for the life of his Pariſhioner
+<note n="*" place="margin">See the An<g ref="char:EOLhyphen"/>tidote, p. 17. &amp;c</note>, p. 7.</p>
+            <p n="3">3. Soon after being caſhiered thence, (whi<g ref="char:EOLhyphen"/>ther though the name he brought were bad e<g ref="char:EOLhyphen"/>nough, yet, as at all removes, he left a worſe behinde him:) he goes a <hi>Bulling</hi>
+               <note n="*" place="margin">See the ſame, p. 10.</note> to <hi>Herbaldown,</hi> and there bellowing it out a while, he findes himſelf ere long eclipſed by the more illuſtrious Cathedraliſts, his neer neighbours. Wherefore having gotten (what he long wiſhed and watch<g ref="char:EOLhyphen"/>ed for) an opportunity for revenge,
+<note place="margin">His plundoring the Cathedral.</note> he bruſsels up to them, and as if now he would ſcratch out their eyes, who would once have well ſcourged his breech; under a pretence of letting in new lights, he falls (like one fitter indeed to make a Threſher then a Scholar) to threſhing down the old, (p. 5.) their much admired, but ſince the Reformation, never until then abuſed windows. And, to clear the place of all monuments of ſuperſtition, down go Crowned Kings for Ca<g ref="char:EOLhyphen"/>nonized Saints: and, to ſhew whoſe ſon he was, he knocks down <hi>Chriſt,</hi> and ſpares the <hi>De<g ref="char:EOLhyphen"/>vil.</hi> Nor ſtayes he there, but (that all might dance after his own pipe) his next care is to break the <hi>Organs:</hi> and carrying them in a tri<g ref="char:EOLhyphen"/>umphant bravado up into the high Steeple, he there proclaims his much higher valour in the conqueſt, both of them, and thoſe whoſe of right they were, by ſetting them (more like a ſcoffing <hi>Lucian</hi> then a ſober <hi>Chriſtian</hi>) to the tune of a ſcurrilous and a louſie catch. In fine, he makes ſuch a foul work all the Church over, (for
+<pb n="4" facs="tcp:65460:4"/>which nothing more ſure then that his name will ſtink to all poſterity,) that for want of fair water, he is fain to uſe foul, turning that beaſtly Cock in his own ſtinking Cod-piece, for water to lay the duſt. From what time no marvel if <hi>per<g ref="char:EOLhyphen"/>ſecutions</hi> abide him, the very Heathens obſerving a curſe due to that wretch that ſhould <hi>mingere in patrios cineres,</hi> dare to play the beaſt, and piſs upon the ſacred aſhes of his Anceſtors.</p>
+            <p n="4">4. By the way, here I expected ſome touch at leaſt of a perſecution betiding him in theſe his Cathedral actings.
+<note place="margin">Mr. P.E.</note> For a young Gentleman of the City obſerving from without, his wilde and outragions zeal within, in making ſuch ha<g ref="char:EOLhyphen"/>vock of the goodly windows upon the account of Idolatry, and coming up towards him, I<g ref="char:EOLhyphen"/>ronically falls to applauding of the action, cal<g ref="char:EOLhyphen"/>ling to him, and telling him it was a very good work, and that he would join with him in it and help him. And thereupon catching up a good thumping ſtone, takes his aim at the place where the Pike-man was ſtanding, moun<g ref="char:EOLhyphen"/>ted on his <hi>Haman</hi> like ladder: and intending it not at the glaſs but the glaſs-breaker, throws it with all the power he could, and had not ſome iron bars interpoſed between his pate and the ſtone, it had done ſuch execution as would have quite marred his making of <hi>Looking-glaſſes,</hi> &amp; put an end, if not to the work, yet to the work<g ref="char:EOLhyphen"/>man, by daſhing out thoſe little brains he had; who therefore me thinks ſhould not have omit<g ref="char:EOLhyphen"/>ted this out of his Perſecution-legend. But will you know the reaſon? the Gentleman is yet a<g ref="char:EOLhyphen"/>live,
+<pb facs="tcp:65460:4"/>and no way (as you muſt believe his other Perſecutors are, <hi>eo nomine;</hi>) become a ſignal example of divine vengeance. He is not indeed, but one that poſſibly (and not improbably) may live to ſee the Cathedral Threſher, who was ſo nimble to run up the ladder here, as willing to come down another elſewhere, which (alas) he cannot do without breaking his neck; it be<g ref="char:EOLhyphen"/>ing ſuch a ſcurvy kind of ladder as will admit of no deſcent but by a rope with ſuch a hampering nooſe, that (if it be not miſplaced, as in this action it was) will neither ſuffer his advance to heaven, nor his retreat to earth, but take him ſhort of both, as unworthy of either, and only fit to be hanged up as a PARISH LOOKING<g ref="char:EOLhyphen"/>GLASSE FOR PLUNDERERS OF MIN<g ref="char:EOLhyphen"/>STERS.</p>
+            <p n="5">5. But to go on with our ſtory, the late eclipſed Worthy by this time having gotten together a ſufficient ſtock of merit, and ſcorning there<g ref="char:EOLhyphen"/>fore any longer to ſerve as a Journey-man, who had now ſo well deſerved to ſet up for himſelf, he leaves his Curate-ſhip at <hi>Herbaldown,</hi> and becauſe others will not prefer him,
+<note place="margin">His intruſion at St. <hi>Stephens.</hi>
+               </note> he will pre<g ref="char:EOLhyphen"/>fer himſelf. Like a covetous <hi>Ahab</hi> then envying his neighbour <hi>Naboth</hi> a better Vineyard then his own, he confidently thruſts his ſickle into a much worthier mans harveſt at St. <hi>Stephens</hi>
+               <note n="*" place="margin">See <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Antido<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </note>: whence being ready (as once that Martyr, but in a better cauſe) to be ſtoned for his pains, by the inraged Pariſhioners, ſenſible of their true Paſtors oppreſſion: and after a repulſe (p. 9.) firſt at <hi>Cartham,</hi> and afterwards at <hi>Ickham,</hi> (for
+<pb n="6" facs="tcp:65460:5"/>the Devil himſelf is not more unwelcome every where) he makes towards his own beloved Home-ſtal,
+<note place="margin">Afterwards at <hi>Mynſter.</hi>
+               </note> and pitching upon <hi>Mynſter,</hi> as a fit, becauſe a fat, morſel for his inſatiate maw, he employes all the arts he was Maſter of, in ſup<g ref="char:EOLhyphen"/>planting and pulling down an eminent Doctor for implanting and ſetting up that excellent Dunce himſelf, (p. 10.) And not ſatisfied with his perſecution of the Shepherd, unleſs he may alſo prey upon the Sheep, (whom he findes averſe to ſuch a wretched exchange, and very deſirous to caſt ſuch a rider as gets up into the ſaddle on the wrong ſide;) he throws off his vi<g ref="char:EOLhyphen"/>ſard, and plainly ſhews that he ſought not them but theirs, not the Flock but the Fleece: that by the ſaving of their ſouls he meant the gaining of their Tithes, not caring ſo much to reform their lives, as to improve his own lively-hood, being one whoſe godlineſs conſiſts onely in gain. In<g ref="char:EOLhyphen"/>deed, whatſoever ſwam at the top, ſuch was the foul and faeculent bottom of that gilded and ſpecious deſign.
+<note place="margin">His pranks there.</note> For now, like a ve<g ref="char:EOLhyphen"/>ry Tyrant or a Tyger, though he have not wherewith to nouriſh their ſouls, yet he will enforce them to cheriſh his body; like a barking Cur ſnarling at the detainers, though but of Mint and Cumin, and ſcouring his foul mouth upon them in ſuch a ſort of ſilly quibling nick<g ref="char:EOLhyphen"/>names, as ſhall ſooner render himſelf then them ridiculous to all that truly know both: whilſt the ſpiteful wretch may juſtly laugh at his own folly for thinking to fright men with ſuch chil<g ref="char:EOLhyphen"/>diſh ſcare-crows; and by that old brawling
+<pb n="7" facs="tcp:65460:5"/>whores trick, (which uſing ſo much thither, he learned at <hi>Billings-gate</hi>) of calling <hi>Whore</hi> firſt, diſcovers one other of thoſe arts whereof he is truly Maſter: the grand Perſecutor. of <hi>Kent</hi> and Chriſtendom crying out of perſecution, and thinking to make it viſible to all the world by a falſe, flattering and partial <hi>Looking<g ref="char:EOLhyphen"/>glaſs:</hi> which notwithſtanding is not ſo impe<g ref="char:EOLhyphen"/>netrable but that a weak ſight may look quite through it, or but turning to'ther ſide, plainly ſee that <hi>Catilina Cethegum,</hi> that 'tis the Wolf complains of worrying by the Sheep, the Lion by the Lambe, the Vulture by the Dove: But he who hath leaſt cauſe is moſt forward to com<g ref="char:EOLhyphen"/>plain, and however enamour'd of himſelf, is indeed a fouler, uglier and much more odious Perſecutor (both of Paſtor and People) then any mirror can fully repreſent.</p>
+            <p n="6">6 To proceed, <hi>Mynſter</hi> he gapes for, and <hi>Myn<g ref="char:EOLhyphen"/>ſter</hi> he gets: and behold now <hi>the ſtrong man is in poſſeſsion,</hi> and yet without that mutual <hi>honey<g ref="char:EOLhyphen"/>love</hi> between Miniſter and People, which of him in that caſe is obſerved, (p. 26.) nay, with ſo much of (what he well deſerv'd) ill will and odium of all the Pariſh, (who were not ſuch arrant Aſſes as willingly to ſuffer ſuch a fool to ride them: or tamely to ſubmit their necks to ſuch a Swine-heards <hi>Hogs-yoak,</hi> p. 2.) that, for preventing the <hi>Canterbury</hi> Bonfires, (as a better argument for keeping him in, then any from his own worth and merit) he eſcapes an Ejecti<g ref="char:EOLhyphen"/>on by the Aſſembly of Divines, (p. 11.) (and is ſo abetted by another Aſſembly, as that fin<g ref="char:EOLhyphen"/>ding
+<pb facs="tcp:65460:6"/>him ſo happy and dextrous) at ſaving of ſouls at home, he is ſent on the ſame errand a<g ref="char:EOLhyphen"/>broad. And becauſe he cannot get his neigh<g ref="char:EOLhyphen"/>bouring Miniſters good will to aſſociate with them in their <hi>Margate</hi> Lecture (where they knew him ſo ill beloved,
+<note place="margin">An intruſion at <hi>Margate.</hi>
+               </note> as he could neither do them any credit, nor the people any good) he by high and ſtrong hand obtrudes himſelf, (p. 13.) but with ſo much diſtaſt both to Miniſters and peo<g ref="char:EOLhyphen"/>ple, that to ſave his pains, and their patience in hearkening to ſuch an impertinent babler, the Lecture falls.</p>
+            <p n="7">7. So that thus repulſed, home again he comes, where following his Barn more then his Book, his Tith on the week-day cloſer then his Text on the Lords; he hath not time enough in the day, but borrows a part of a Moon-light night (the more proper ſeaſon for a deed of darkneſs, and wherein, whilſt true men ſleep, thieves and robbers play their pranks) to ſteal up into the Steeple,
+<note place="margin">Set by the D. on a Pinnacle of the Temple.</note> (p. 14.) and being by (that Prince of darkneſs) the Devils help placed on the Pinnacle of it, he ſoon rewards him for his pains, by caſting down, not the Pariſh true eye<g ref="char:EOLhyphen"/>ſore, himſelf, but that Devilliſh eye-ſore (the Church and Chriſtians ancient badge and ban<g ref="char:EOLhyphen"/>ner) the <hi>Croſs.</hi>
+            </p>
+            <p n="8">8. Now could the Pariſh have been as ſoon to rid of their Croſs, which but that you would think I meant himſelf, I would call a worſe, the Bells, to which we are now making, ſhould not I conceive have been ſo ſpeechleſs as it ſeems they were, (p. 27.) when but for his <hi>Wives great
+<pb n="9" facs="tcp:65460:6"/>iron peſtle,</hi>
+               <note place="margin">Thumping the clapperleſs Bels with his P.</note> he means (as Fools have good tooles) his own great ſwinging piſle, they had been as mure and ſilent there, as the good people endea<g ref="char:EOLhyphen"/>voured to make him be below, when they put him to get in like a thief (as he was) by a (ſhit<g ref="char:EOLhyphen"/>ten) window, and rewarded ſome of his very little flock with a foul ſtile without, and others with a filthy pew within, and yet (what ſay they?) good enough for ſuch as could find in their hearts to go a calving, and lend their ears to ſuch a bleating Bell-weather; ſuch a mer<g ref="char:EOLhyphen"/>cenary <hi>Balaam,</hi> as he where ere he comes is held no better; and particularly with his very teſtimonialiſts at <hi>Canterbury,</hi> (p. 8.) who long ere this finding themſelves miſta<g ref="char:EOLhyphen"/>ken in countenancing a ravenous Wolfe un<g ref="char:EOLhyphen"/>der a ſheeps skin, are no leſs aſhamed of him, then he is proud of them, wiſhing (many of them) they had not ſo much cauſe with juſt re<g ref="char:EOLhyphen"/>gret to ſay, <hi>Litera ſcripta manet.</hi>
+            </p>
+            <p n="9">9. VVell, but to <hi>Canterbury</hi> we have brought him, where for a while we ſhall leave him,
+<note place="margin">Preaching to the walls.</note> play<g ref="char:EOLhyphen"/>ing the Pulpiteer, but preaching, as at home, in a manner to thoſe walls which can hardly hold any auditors but ſuch as are ſurprized by being not aware of his turn: the people there ge<g ref="char:EOLhyphen"/>nerally abhorring ſuch an accurſed inſtrument of the barbarous ſpoyle, and beaſtly profanati<g ref="char:EOLhyphen"/>on of that moſt incomparable ornament of the place and Nation, their once flouriſhing, now (thank the Devil and <hi>Dick</hi>) fading,
+<note place="margin">
+                  <hi>Dick</hi> a plum-porridge Prieſt</note> falling Ca<g ref="char:EOLhyphen"/>thedral and watching an opportunity for a full revenge upon that impious <hi>Heroſtratus,</hi> no mar<g ref="char:EOLhyphen"/>vel if he found it better playing the <hi>Plum-por<g ref="char:EOLhyphen"/>ridge
+<pb n="10" facs="tcp:65460:7"/>Prieſt,</hi> (p. 30.) and filling his panch as he did with a firſt and ſecond meſs of good ſtew'd-broth, and a Nativity-pye in Mr. <hi>Philips</hi> Parlor on a Chriſtmas-day (p. 29.) without the leaſt ſcandal or ſcruple of conſcience upon the account of ſuperſtition, nay with thanks and approbation as <hi>(in terminis)</hi> very ſeaſon<g ref="char:EOLhyphen"/>able fare: then adventuring his perſon among the inraged Chriſtmas-men, who perhaps might have thoughts of ſuch ſuitable wages for his not forgotten, though unrewarded impious Church-work, not to be expiated by his many vaunted <hi>good-works,</hi> (p. 30.) as that kind of ad<g ref="char:EOLhyphen"/>vancement he ſpeaks of, but with a ſhorter lad<g ref="char:EOLhyphen"/>der I believe then ſerved his turn there, and a rope not ſo miſplac't as then.</p>
+            <p n="10">10.
+<note place="margin">Playing the Otter.</note> Thus indeed they had ſaved his pains in ſwimming and diving, as ſhortly after, to get to <hi>Sandwich,</hi> (p. 31, 32.) from whence acted and affrighted as much, if not more, by that <hi>Neme<g ref="char:EOLhyphen"/>ſis à tergo,</hi> his own guilt, then others malice, he trots to <hi>Deale,</hi> where we muſt imagine him taking Sanctuary in his Coſen <hi>Culmers</hi> chimney corner,
+<note place="margin">Preaching in a chimney corner.</note> and there entertaining mine Hoſt and his family with a Winters tale, or a Tragick<g ref="char:EOLhyphen"/>comaedy of his hard, but happy eſcape; as late<g ref="char:EOLhyphen"/>ly from the Gallows, ſo now from the Billows, from hanging at one time, and drowning at an<g ref="char:EOLhyphen"/>other: and in a woful manner recounting a deal of other ſuch pittiful ſtuff and ſtories of his heavy perſecutions, as ſet his tender-hearted Hoſt a weeping, until at length out comes the tale of a <hi>Turd,</hi> the beſhitten ſtile and pew, when preſently the ſcene alters, the <hi>Heraclitus</hi>
+               <pb n="11" facs="tcp:65460:7"/>turns <hi>Democritus,</hi> mine Hoſt now laughs as hear<g ref="char:EOLhyphen"/>tily as he wept before, and doubtleſs becomes a ſuter to his gueſt (for the honour of their name and family) by ſome godly book or ballad, to give the world an account (as now he hath done in his Martyrological Apology) of all his ſad diſaſters, and wounderful deliverances. The contents of which rare Maſter-piece, eſpecial<g ref="char:EOLhyphen"/>ly in the 29 page, as it makes me call to mind the ſtory of <hi>A-JAX,</hi> ſo that part of it conſider<g ref="char:EOLhyphen"/>ed and compared with the precedent, full of lamentable and tragical tales, hardly to be read by any but Stoicks or ſtocks with dry eyes, puts me alſo in mind of ſuch another Preacher as the Author, the famous <hi>Scogan,</hi>
+               <note place="margin">
+                  <hi>Scogans</hi> Ape.</note> who with his forrowful face, ſet one part of his Auditory on weeping, and with his open A—at the ſame inſtant ſet the other on laughing.</p>
+            <p n="11">11. But to return to our Pilgrim, who (to caſe the Land a while of her unprofitable bur<g ref="char:EOLhyphen"/>then) puts to Sea, and ſafely gets to <hi>London,</hi> (p. 32.) whither if we follow him, we may finde him, after a ſad rehearſal Sermon of his many ſufferings for the cauſe (wherein he ſpeaks righ<g ref="char:EOLhyphen"/>ter then he is aware, having ever given a very juſt cauſe for all his ſufferings:
+<note place="margin">Pratling at <hi>Berdmondſey.</hi>
+               </note>) and a uſe of ex<g ref="char:EOLhyphen"/>hortation to the Brethren at <hi>Berdmondſey</hi> to pitty his caſe, but eſpecially to reſent the foul abuſe and beaſtly offront offered to a neigh<g ref="char:EOLhyphen"/>bour of theirs, a <hi>London</hi> Dame (p. 29.) to the ſpoyling of her ſattin peticoat and her devoti<g ref="char:EOLhyphen"/>on to boot, (whereof he gave them ſuch a ſweet relation as would not out of their noſtrils a
+<pb n="12" facs="tcp:65460:8"/>good while after:) he takes his leave of them to go tell the ſame ſtory <hi>(decies repetita placebit)</hi> to the Army, under whoſe protection he makes a cowardly retreat by the way of <hi>Wy,</hi>
+               <note place="margin">Railing on the living, and raſhly cenſu<g ref="char:EOLhyphen"/>ring the dead.</note> (p. 32.) where (as his manner is throughout the whole Pamphlet, or rather Paſquil, being ſtuff'd with nothing more then baſe invectives on the living and bitter cenſures on the dead, all whoſe ſuf<g ref="char:EOLhyphen"/>ferings, as if of the Cabinet counſel with God himſelf, he aſcribes to a juſt judgement from that divine hand upon them for perſecuting ſuch a darling of Heaven, as he by his falſe <hi>Looking<g ref="char:EOLhyphen"/>glaſs</hi> endeavours to appear:) he ſo inſults over a dead Lion, a valiant but unfortunate Gentle<g ref="char:EOLhyphen"/>man, that I cannot but wonder at the ſurviving brother, that with patience and ſilence he can put up and paſſe over ſo great an indignity of<g ref="char:EOLhyphen"/>fered to his brothers memory: how he can for<g ref="char:EOLhyphen"/>bear to caſt ſtones at his pate that ſhall thus caſt dirt in his brothers face;
+<note place="margin">De mortuis nil niſi bona.</note> an impiety abhorred even of Heathens, and deſerving Scorpious or the laſh of ſome outragious fury to chaſtiſe it.</p>
+            <p n="12">12. But hoping on this hint (though ſome ſay his mouth is ſtopped, and his hand ſtayed, with a book) he may be rouzed to do his brother, and therein himſelf right; I ſhall leave him, and return to that ſnarling <hi>Cerberus,</hi> who at length once more recovers his kennel. But expect his long reſting there we may not: for like a Knight errant,
+<note place="margin">
+                  <hi>Dick a</hi> Non-Reſident.</note> or a more arrant <hi>Non-Reſident</hi> then any againſt whom he clamours, (p. 26.) a meer <hi>wandering Levitical Renegado,</hi> (p. 37.) he is continually in motion, once a
+<pb n="13" facs="tcp:65460:8"/>week at leaſt, meaſuring the diſtance between <hi>Eaſt-Mynſter</hi> and <hi>Weſt-Mynſter,</hi> and out of a pe<g ref="char:EOLhyphen"/>nurious baſeneſs ſeldome or never paſſing be<g ref="char:EOLhyphen"/>tween <hi>London</hi> and <hi>Graveſend</hi> but by the common Tilt-boat, amongſt his Peers, I confeſs, tag, rag &amp; bobtail, a rabble of ſordid, naſty, louſie people: &amp; yet ſomtimes ſo inviſibly by lodging and lay<g ref="char:EOLhyphen"/>ing himſelf up, or rather down,
+<note place="margin">Perſecuted by the water<g ref="char:EOLhyphen"/>men.</note> under the ben<g ref="char:EOLhyphen"/>ches on purpoſe to avoid the water-mens <hi>perſe<g ref="char:EOLhyphen"/>cution</hi> for his ſix penny fare, that he is fain either to be kickt up like a dog, or, as once at <hi>Canterbu<g ref="char:EOLhyphen"/>ry-School,</hi> drawn out by the heels, to the wonder of his fellow-paſſengers, but not of the water<g ref="char:EOLhyphen"/>men, which have been accuſtomed to his hiding<g ref="char:EOLhyphen"/>fox tricks.</p>
+            <p n="13">13. But he is by this time on ſhore, and being gotten to the Exchequer,
+<note place="margin">Very ſenſible of the want of the Eccle<g ref="char:EOLhyphen"/>ſiaſt. Court.</note> (p. 33.) is there pre<g ref="char:EOLhyphen"/>ferring (what alas he cannot do in the <hi>Eccleſia<g ref="char:EOLhyphen"/>ſtical Courts,</hi> which, to the great prejudice of ſuch <hi>faithful Ministers,</hi> were unluckily aboliſhed, p. 2.) a Lye-bill againſt ſome of his Perſecu<g ref="char:EOLhyphen"/>tors, that is, the detainers of thoſe Tithes where<g ref="char:EOLhyphen"/>of (as they are a ſort of knowing men, and with<g ref="char:EOLhyphen"/>al of more conſcience then himſelf) they know him to be a meer Uſurper, and not leſſe out in calling himſelf their Paſtor, then he was ere<g ref="char:EOLhyphen"/>while in ſaying that <hi>Pontius</hi> was the Chriſtian name of <hi>Pilate,</hi> (p. 34.) Indeed admit this, (that he is of right the pariſh Miniſter of <hi>Mynſter</hi>) and then what he ſayes is ſomewhat:
+<note place="margin">Not rightful Miniſter of <hi>Mynſter.</hi>
+               </note> but if on the contrary <hi>de facto</hi> only, he thruſts his ſickle into anothers harveſt: or, admitting the Living to be void, if ſuch a one obtrude himſelf upon
+<pb n="14" facs="tcp:65460:9"/>the people, that is ſo notoriouſly unworthy as to become the odium and out-caſt of all places; not one, but all, both places and perſons, where he is known, riſing up and bandying themſelves againſt him, either to keep him out, and ſtave him off that he come not in, or if gotten in, be<g ref="char:EOLhyphen"/>ing ever reſtleſs, and never at quiet till he be ſpewed out: if ſuch a one as he, ſo foully ſcan<g ref="char:EOLhyphen"/>dalous for his life, (by many ſtrange <hi>piacula</hi> a p<g ref="char:EOLhyphen"/>pearing by this Counter-mirror
+<note n="*" place="margin">Whereof much more in the Antidote, throughout.</note>) and ſuch an <hi>Ignoramus</hi> for his learning, (if he will be judged by his own book) as utterly unable to return them, <hi>Quid pro quo,</hi> a recompence in teaching for his maintenance in Tithes; if ſuch a one, I ſay, ſhall call and hold himſelf to be the Mi<g ref="char:EOLhyphen"/>niſter of <hi>Mynſter,</hi> as it is no other then <hi>petitio principii,</hi> a craving to have that yielded which until it be proved ought not to be admitted: ſo if on that account the people ſhall with<g ref="char:EOLhyphen"/>hold their Tithes, and be worried and hurried up and down for it by ſuch a Prieſt, let equal Judges ſay, which of the two, is the Per<g ref="char:EOLhyphen"/>ſecutor.</p>
+            <p n="14">14. But whatever he be, we muſt remember where we laſt left him, and that was at the Ex<g ref="char:EOLhyphen"/>chequer, where it may be doubted he found but cold entertainment, for we ſhall have him next not much rejoycing, though warming him<g ref="char:EOLhyphen"/>ſelf at a Bonfire (p. 36.) and for his Readers recreation (that hath quite tired his eyes with poaring ſo long upon a dull and duſty <hi>Looking<g ref="char:EOLhyphen"/>glaſs</hi>) rewarding his patience, and pleaſing his ear another while with a piece of <hi>Thanet</hi> Poetry;
+<pb n="15" facs="tcp:65460:9"/>a Ballad of <hi>Jack Benet.</hi>
+               <note place="margin">
+                  <hi>Dick</hi> turned Ballad-ſinger.</note> But (as there are two of the name) he ſayes not which: I ſhall there<g ref="char:EOLhyphen"/>fore, to prevent a miſtake of the wrong for the right, adventure alſo on a few rimes in behalf of the true.</p>
+            <lg>
+               <l>
+                  <hi>A word with thee</hi> Jack Benet,</l>
+               <l>
+                  <hi>And, c'auſe thou liv'ſt in</hi> Tenet,</l>
+               <l>
+                  <hi>Pray tell thy neighbour</hi> Dick</l>
+               <l>
+                  <hi>Of his unhandſome trick,</hi>
+               </l>
+               <l>
+                  <hi>To bring thee on the ſtage</hi>
+               </l>
+               <l>
+                  <hi>In this beſpattering age.</hi>
+               </l>
+               <l>
+                  <hi>For ſome that knew old</hi> Dick,</l>
+               <l>
+                  <hi>And how he uſ'd his P—</hi>
+               </l>
+               <l>
+                  <hi>Say all his brats were not</hi>
+               </l>
+               <l>
+                  <hi>Upon his Wife begot:</hi>
+               </l>
+               <l>
+                  <hi>But that the luſty blade</hi>
+               </l>
+               <l>
+                  <hi>Got up and did his Maid,</hi>
+               </l>
+               <l>
+                  <hi>Who fructify'd, and what?</hi>
+               </l>
+               <l>
+                  <hi>A wench the Knave begat.</hi>
+               </l>
+               <l>
+                  <hi>This Wench they ſay in</hi> Tenet</l>
+               <l>
+                  <hi>Was married to</hi> Jack Benet.</l>
+               <l>
+                  <hi>Now was't not baſely done</hi>
+               </l>
+               <l>
+                  <hi>Of old</hi> Dick Culmers <hi>Son</hi>
+               </l>
+               <l>
+                  <hi>Thy name, good</hi> Jack, <hi>to mention</hi>
+               </l>
+               <l>
+                  <hi>Without the leaſt diſtinction,</hi>
+               </l>
+               <l>
+                  <hi>As if thou wert the man?</hi>
+               </l>
+               <l>
+                  <hi>And (ſhall I tell thee</hi> John?)</l>
+               <l>
+                  <hi>What ſay the men of</hi> Tenet?</l>
+               <l>
+                  <hi>This ſure is that</hi> Jack Benet</l>
+               <l>
+                  <hi>Who knit the nuptial knot</hi>
+               </l>
+               <l>
+                  <hi>With</hi> Culmers <hi>baſtard brat.</hi>
+               </l>
+               <l>
+                  <hi>Then</hi> Jack <hi>for vindication</hi>
+               </l>
+               <l>
+                  <hi>Of this baſe imputation</hi>
+               </l>
+               <l>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>pon thy vertuous Wife</hi>
+               </l>
+               <l>
+                  <hi>Of ſpotleſs birth and life,</hi>
+               </l>
+               <l>
+                  <hi>Or get thy name ſtruck out,</hi>
+               </l>
+               <l>
+                  <hi>Or make that fumbling Lout</hi>
+               </l>
+               <l>
+                  <hi>Explain himſelf, and ſay:</hi>
+               </l>
+               <l>
+                  <hi>Miſtake me not I pray,</hi>
+               </l>
+               <l>
+                  <hi>This</hi> Jack <hi>is not the Gull</hi>
+               </l>
+               <l>
+                  <hi>That took to Wife the Trull,</hi>
+               </l>
+               <l>
+                  <hi>(Undone if he had miſt her)</hi>
+               </l>
+               <l>Repent, <hi>my baſtard-ſiſter.</hi>
+               </l>
+               <l>
+                  <hi>Thus ſhall thy wife,</hi> Jack Benet,</l>
+               <l>
+                  <hi>Throughout the Ile of</hi> Tenet</l>
+               <l>
+                  <hi>Be clear'd, who elſe (alas!)</hi>
+               </l>
+               <l>
+                  <hi>Will for that Whores-bird paſs.</hi>
+               </l>
+            </lg>
+            <p>But our Ballad-ſinger (who is very fugitive, and never ſtayes long at a place) having ſung out his ſong, and turn'd over a new leaf, (p. 37.) is gotten to <hi>Billings-gate,</hi> where (as Ballad-mon<g ref="char:EOLhyphen"/>gers are) being taken for a rogue and a va<g ref="char:EOLhyphen"/>grant, he hath much ado to eſcape (what by good hap a <hi>Scribe</hi> at hand was ready to write)
+<pb n="16" facs="tcp:65460:10"/>a <hi>Mittimus</hi> from thence to (a fit cage for ſuch birds as Ballad-makers to ſing in) <hi>Newgate.</hi> But his time is not yet come,
+<note place="margin">Like to be ſent to <hi>Newgate.</hi>
+               </note> though in good time it may, notwithſtanding his many teſtimonials from ſeveral places, which are now no better then ſo many old Almanacks, out of date, and which indeed, in moſt mens judgement, are but the products either of fear or flattery: ſome of the ſubſcribers out of fear of his diſpleaſure, <hi>ne noceat,</hi> (as the Indians worſhip the Devil:) others out of flattery, and a ſeeming compli<g ref="char:EOLhyphen"/>ance with ſuch an active Zealot for the <hi>Cauſe,</hi> none out of love holding forth a hand to him, but many (as once his <hi>Beſt</hi> friend, or friend <hi>Beſt</hi>) out of hatred, to cuff his ears and cudgel his coat.</p>
+            <p n="16">16. But ſee he is gotten back to <hi>Mynſter,</hi> (p. 39.
+<note place="margin">Turn'd Look<g ref="char:EOLhyphen"/>ing-glaſs ma<g ref="char:EOLhyphen"/>ker.</note>) where we ſhall leave him making of <hi>Look<g ref="char:EOLhyphen"/>ing-glaſſes,</hi> and ſaving the ſouls of as many as will pay him, which he hath taken a courſe ſhall be but few, by making it a certain note, or <hi>a ſure ſign of a good Miniſter</hi> (p. 37.) to be oppoſed by all his Pariſh. And thus, like a learned Diſ<g ref="char:EOLhyphen"/>putant, hath he brought himſelf into a very fine <hi>Dilemma.</hi> For either the people muſt keep their money,
+<note place="margin">Taken in a <hi>Di<g ref="char:EOLhyphen"/>lemma.</hi>
+               </note> or elſe the Prieſt muſt loſe his cre<g ref="char:EOLhyphen"/>dit: a very good hint to the whole Pariſh to have a care of avoiding that proverbe: <hi>A Fool and his money are ſoon parted.</hi>
+            </p>
+            <p n="17">17. And thus much have you of the life of this <hi>faithful Miniſter,</hi>
+               <note place="margin">The Concluſi<g ref="char:EOLhyphen"/>on.</note> which is as much as the <hi>Lock<g ref="char:EOLhyphen"/>ing-glaſs</hi> affords. If you want more, you muſt have patience with me until further inabled by ſuch another <hi>Mirror;</hi> which, this going off ſo
+<pb n="17" facs="tcp:65460:10"/>well, we have all reaſon ſhortly to expect, if we may be ſo happy hereafter as heretofore, that neither hanging at land, nor drowning at Sea deprive us of the Crafts-mans: which whoſo does not deprecate, let him be condemn'd to fire and faggot, being made to contribute his ſhare of both to that common pile, whereof no doubt both at <hi>Canterbury</hi> and <hi>Mynster,</hi> there will be need enough for drying up that Ocean of tears which me thinks I ſee guſhing from the eyes of a multitude of mourners greedily aſ<g ref="char:EOLhyphen"/>ſembling to condole the loſs of ſo univerſal a <hi>Darling,</hi> and with joined hands throwing them<g ref="char:EOLhyphen"/>ſelves in a round about the flaming pile, and e<g ref="char:EOLhyphen"/>jaculating this doleful Dirge and Ditty:</p>
+            <lg>
+               <l>
+                  <hi>O what a loſs have we, Sirs,</hi>
+               </l>
+               <l>
+                  <hi>O what a loſs have we, Sirs!</hi>
+               </l>
+               <l>
+                  <hi>O hone, O hone,</hi>
+               </l>
+               <l>Blew Dick <hi>is gone:</hi>
+               </l>
+               <l>
+                  <hi>Then what a loſs have we Sirs!</hi>
+               </l>
+               <l>
+                  <hi>So true (alas) is that, Sirs,</hi>
+               </l>
+               <l>
+                  <hi>So true (alas) is that, Sirs,</hi>
+               </l>
+               <l>
+                  <hi>The choiceſt flowers,</hi>
+               </l>
+               <l>
+                  <hi>Live feweſt hours,</hi>
+               </l>
+               <l>
+                  <hi>So true (alas) is that Sirs.</hi>
+               </l>
+               <l>
+                  <hi>He</hi> Looking-glaſſes <hi>made, Sirs,</hi>
+               </l>
+               <l>
+                  <hi>He</hi> Looking-glaſſes <hi>made, Sirs,</hi>
+               </l>
+               <l>Cathedral Lyes,</l>
+               <l>
+                  <hi>With</hi> Hues and Cryes,</l>
+               <l>
+                  <hi>O 'twas a Clerk-like trade, Sirs.</hi>
+               </l>
+               <l>
+                  <hi>But now the workman's gon, Sirs,</hi>
+               </l>
+               <l>
+                  <hi>But now the workman's gon, Sirs,</hi>
+               </l>
+               <l>
+                  <hi>His wages he</hi>
+               </l>
+               <l>
+                  <hi>Receives, but we</hi>
+               </l>
+               <l>
+                  <hi>Are quite and clean undone Sirs.</hi>
+               </l>
+               <l>
+                  <hi>But bootleſs 'tis to grieve, Sirs,</hi>
+               </l>
+               <l>
+                  <hi>But bootleſs 'tis to grieve, Sirs,</hi>
+               </l>
+               <l>
+                  <hi>What's paſt, in vain</hi>
+               </l>
+               <l>
+                  <hi>We call again:</hi>
+               </l>
+               <l>
+                  <hi>Then bootleſs 'tis to grieve, Sirs.</hi>
+               </l>
+               <l>
+                  <hi>If you'l be rul'd by me, Sirs,</hi>
+               </l>
+               <l>
+                  <hi>If you'l be rul'd by me, Sirs,</hi>
+               </l>
+               <l>
+                  <hi>Let ſorrows pack,</hi>
+               </l>
+               <l>
+                  <hi>Drown Cares in Sack,</hi>
+               </l>
+               <l>
+                  <hi>If you'l be rul'd by me, Sirs.</hi>
+               </l>
+               <l>
+                  <hi>Clear up the brow, cheer up, Sirs,</hi>
+               </l>
+               <l>
+                  <hi>Clear up the brow, cheer up, Sirs,</hi>
+               </l>
+               <l>
+                  <hi>What ere his hiew,</hi>
+               </l>
+               <l>
+                  <hi>Bid</hi> Dick <hi>adieu,</hi>
+               </l>
+               <l>
+                  <hi>And let's have t'other cup, Sirs.</hi>
+               </l>
+               <l>
+                  <hi>And change the Note, and ſing Sirs,</hi>
+               </l>
+               <l>
+                  <hi>Till Heav'n with Eccho's ring Sirs:</hi>
+               </l>
+               <l>
+                  <hi>Nor ſigh, nor groan,</hi>
+               </l>
+               <l>
+                  <hi>Nor cry O hone,</hi>
+               </l>
+               <l>
+                  <hi>But</hi> Jo Paean <hi>ſing Sirs.</hi>
+               </l>
+            </lg>
+         </div>
+         <div type="approbation">
+            <pb facs="tcp:65460:11"/>
+            <head>Summa approbationis.</head>
+            <p>Having peruſed the <hi>Mirror</hi> and <hi>Coun<g ref="char:EOLhyphen"/>ter mirror,</hi> and finding the former a very AR Sificial piece, by reaſon of the <hi>PURE STYLE</hi> affording very ſweet and fra<g ref="char:EOLhyphen"/>grant flowers, fit to dreſs up the <hi>PRIVY.</hi> chamber: and yet fearing ſome directions may be wanting for gathering a Poſie of them where with this <hi>Counter-mirror</hi> is pertinently fraught, I cannot but give it a free Licence; wiſhing all <hi>beholders</hi> to join with me in a due eſtimate of both; at leaſt, not to neglect the good help of the latter, for diſcovering the <hi>NECESSA<g ref="char:EOLhyphen"/>RY</hi> uſe of the former.</p>
+            <closer>
+               <signed>Philo-katoptrono-klaſtes.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Printed at</hi> London, <hi>1657.</hi>
+            </p>
+            <pb facs="tcp:65460:11"/>
+         </div>
+      </back>
+   </text>
+</TEI>
